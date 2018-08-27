@@ -2,4 +2,4 @@
 
 Search Recipes App using API
 
-<img src="/src/thumbnail_original.png">
+<img src="/src/search.png">
